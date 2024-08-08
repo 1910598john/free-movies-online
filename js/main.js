@@ -1,1 +1,290 @@
-function _0x48e6(_0x2d3d1a,_0x3dfa58){const _0x101ca9=_0x101c();return _0x48e6=function(_0x48e62c,_0x17fb01){_0x48e62c=_0x48e62c-0xeb;let _0x2e1922=_0x101ca9[_0x48e62c];return _0x2e1922;},_0x48e6(_0x2d3d1a,_0x3dfa58);}const _0x5d07d9=_0x48e6;(function(_0x2a347b,_0x3e71fb){const _0x219288=_0x48e6,_0x307109=_0x2a347b();while(!![]){try{const _0x12ef0e=parseInt(_0x219288(0x12f))/0x1*(-parseInt(_0x219288(0x12a))/0x2)+-parseInt(_0x219288(0x101))/0x3*(parseInt(_0x219288(0x123))/0x4)+parseInt(_0x219288(0x112))/0x5+parseInt(_0x219288(0x115))/0x6+parseInt(_0x219288(0xf2))/0x7*(-parseInt(_0x219288(0x10d))/0x8)+parseInt(_0x219288(0x107))/0x9*(-parseInt(_0x219288(0xf8))/0xa)+parseInt(_0x219288(0x10f))/0xb;if(_0x12ef0e===_0x3e71fb)break;else _0x307109['push'](_0x307109['shift']());}catch(_0x477fdb){_0x307109['push'](_0x307109['shift']());}}}(_0x101c,0xbdec0),$(document)[_0x5d07d9(0xed)](function(){const _0x3461a6=_0x5d07d9;let _0x2eeda1=0x1;if($(window)[_0x3461a6(0x12e)]()>0x258)$(_0x3461a6(0x117))[_0x3461a6(0xf3)](function(_0x577243){const _0x49f1da=_0x3461a6;_0x577243[_0x49f1da(0xfb)](),$(_0x49f1da(0x125))[_0x49f1da(0x104)](_0x49f1da(0x110),'hidden'),document['body'][_0x49f1da(0xf4)]('afterbegin',_0x49f1da(0xef)),$(_0x49f1da(0x109))['click'](function(_0x3a3fe0){const _0x2ccdae=_0x49f1da;$(_0x2ccdae(0x125))[_0x2ccdae(0x104)]('overflow',_0x2ccdae(0x102)),$(this)[_0x2ccdae(0x11a)]();}),$('.search-window\x20>\x20div')[_0x49f1da(0xf3)](function(_0x542663){const _0x3c72a4=_0x49f1da;_0x542663[_0x3c72a4(0xfb)]();});});else{let _0x424244=!![];$(_0x3461a6(0xec))['click'](function(_0x2f5f4e){const _0x256eba=_0x3461a6;_0x2f5f4e[_0x256eba(0xfb)](),_0x424244?($(_0x256eba(0x128))[_0x256eba(0x106)]({'left':'0'},0x1f4),_0x424244=![]):($(_0x256eba(0x128))[_0x256eba(0x106)]({'left':_0x256eba(0xf9)},0x1f4),_0x424244=!![]);});}_0x48ea2a(_0x2eeda1);function _0x48ea2a(_0x2ed1dd){const _0x18dff7=_0x3461a6;fetch(_0x18dff7(0x114)+_0x2ed1dd+'.json')[_0x18dff7(0x113)](_0x96ef01=>{const _0x13d4b1=_0x18dff7;if(!_0x96ef01['ok'])throw new Error(_0x13d4b1(0x12c)+_0x96ef01[_0x13d4b1(0x116)]);return _0x96ef01[_0x13d4b1(0x103)]();})[_0x18dff7(0x113)](_0x5a485b=>{const _0x448fd6=_0x18dff7;_0x5a485b=_0x5a485b[_0x448fd6(0x10a)],document[_0x448fd6(0x12b)]('main')[_0x448fd6(0x11e)]='';for(let _0x1053ca=0x0;_0x1053ca<_0x5a485b['length'];_0x1053ca++){let _0x4fe35f=_0x5a485b[_0x1053ca][_0x448fd6(0x10b)],_0x414c75=_0x4fe35f[_0x448fd6(0x119)](/\s\d{4}$/,''),_0x4a29e8=_0x4fe35f[_0x448fd6(0xf6)](/\b(\d{4})\b$/);const _0xf8fc={'method':_0x448fd6(0x10e),'headers':{'accept':_0x448fd6(0xf1),'Authorization':_0x448fd6(0xff)}};fetch('https://api.themoviedb.org/3/search/movie?query='+encodeURIComponent(_0x414c75)+_0x448fd6(0xee),_0xf8fc)[_0x448fd6(0x113)](_0x199cd1=>_0x199cd1[_0x448fd6(0x103)]())[_0x448fd6(0x113)](_0xdbea0e=>{const _0x190104=_0x448fd6;_0xdbea0e=_0xdbea0e[_0x190104(0x118)];let _0x5270a6=![];for(let _0x6c5df3=0x0;_0x6c5df3<_0xdbea0e[_0x190104(0xf7)];_0x6c5df3++){let _0x495bfe=new Date(_0xdbea0e[_0x6c5df3][_0x190104(0x108)]),_0x4e2f43=_0x495bfe[_0x190104(0x126)]();_0x4e2f43=_0x4e2f43[_0x190104(0xf5)]();if(_0xdbea0e[_0x6c5df3][_0x190104(0x10b)]['includes'](_0x414c75)&&_0x4e2f43==_0x4a29e8[0x1]){_0x5270a6=!![],url=_0x190104(0xfa)+_0xdbea0e[_0x6c5df3]['poster_path'];let _0x2fcf26=JSON[_0x190104(0xf0)](_0x5a485b[_0x1053ca]);document[_0x190104(0x12b)](_0x190104(0x105))[_0x190104(0xf4)](_0x190104(0x11b),_0x190104(0xeb)+_0x2fcf26+'\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+url+_0x190104(0x12d)+_0x4fe35f+_0x190104(0x11f)+_0x4e2f43+_0x190104(0x122)+_0x414c75+_0x190104(0x120));break;}}$(_0x190104(0x127))['on'](_0x190104(0xf3),function(_0x158a26){const _0x4fe794=_0x190104;_0x158a26['stopImmediatePropagation']();let _0xf50f3d=$(this)[_0x4fe794(0xfc)]('id');$('html,\x20body')['css'](_0x4fe794(0x110),'hidden'),document['body'][_0x4fe794(0xf4)](_0x4fe794(0x11b),_0x4fe794(0x124)+_0xf50f3d['embed_url']+_0x4fe794(0x11d)),$('.close-button')[_0x4fe794(0xf3)](function(_0x3e32e4){const _0x154608=_0x4fe794;_0x3e32e4[_0x154608(0xfb)](),$(_0x154608(0x125))[_0x154608(0x104)](_0x154608(0x110),_0x154608(0x102)),$(_0x154608(0x129))['remove']();});}),setTimeout(()=>{const _0x56d796=_0x190104;$(_0x56d796(0xfd))[_0x56d796(0x106)]({'opacity':'0'},'fast'),$(_0x56d796(0x100))[_0x56d796(0x10c)](_0x56d796(0x11c));},0x3e8),setTimeout(function(){const _0x23ce93=_0x190104;$(_0x23ce93(0xfd))[_0x23ce93(0x11a)](),$(_0x23ce93(0x100))[_0x23ce93(0x11a)]();},0x7d0),$(_0x190104(0x111))[_0x190104(0xfe)](_0x2ed1dd);if(!_0x5270a6){}});}});}$(_0x3461a6(0x121))[_0x3461a6(0xf3)](function(_0x5a5f1b){const _0x258ca5=_0x3461a6;_0x5a5f1b[_0x258ca5(0xfb)](),_0x2eeda1+=0x1,_0x48ea2a(_0x2eeda1);}),$('#prev')[_0x3461a6(0xf3)](function(_0x298dc6){const _0x5c9346=_0x3461a6;_0x298dc6[_0x5c9346(0xfb)](),_0x2eeda1>0x1&&(_0x2eeda1-=0x1,_0x48ea2a(_0x2eeda1));});}));function _0x101c(){const _0x523fc8=['5978480EulVsO','then','https://vidsrc.xyz/movies/latest/page-','3579402boiuNW','status','.search','results','replace','remove','afterbegin','preload2','\x22\x20allowfullscreen></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','innerHTML','\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span>(','\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','#next',')</span><br>','36FgTxpj','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22watch-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2240\x22\x20height=\x2240\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-x-square-fill\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M2\x200a2\x202\x200\x200\x200-2\x202v12a2\x202\x200\x200\x200\x202\x202h12a2\x202\x200\x200\x200\x202-2V2a2\x202\x200\x200\x200-2-2zm3.354\x204.646L8\x207.293l2.646-2.647a.5.5\x200\x200\x201\x20.708.708L8.707\x208l2.647\x202.646a.5.5\x200\x200\x201-.708.708L8\x208.707l-2.646\x202.647a.5.5\x200\x200\x201-.708-.708L7.293\x208\x204.646\x205.354a.5.5\x200\x201\x201\x20.708-.708\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20src=\x22','html,\x20body','getFullYear','.movie','.side-bar','.watch-window','382298CNlHku','getElementById','HTTP\x20error!\x20status:\x20','\x22\x20alt=\x22','width','2yXmmOA','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22movie\x22\x20data-id=\x27','.bars','ready','&include_adult=false&language=en-US&page=1','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22search\x22\x20placeholder=\x22Search\x20a\x20movie\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2230\x22\x20height=\x2230\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-search\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M11.742\x2010.344a6.5\x206.5\x200\x201\x200-1.397\x201.398h-.001q.044.06.098.115l3.85\x203.85a1\x201\x200\x200\x200\x201.415-1.414l-3.85-3.85a1\x201\x200\x200\x200-.115-.1zM12\x206.5a5.5\x205.5\x200\x201\x201-11\x200\x205.5\x205.5\x200\x200\x201\x2011\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','stringify','application/json','6566XOGoif','click','insertAdjacentHTML','toString','match','length','209290iyMjKr','-71vw','https://image.tmdb.org/t/p/w400','stopImmediatePropagation','data','.preload-logo','html','Bearer\x20eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMjgzMzQyMC41NDUxODcsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Y6XhJVKCh3d3Uti3TcxV3qzwW5NZhJonFbK7z3as5jM','.preload','121917bmPUue','auto','json','css','main','animate','603oDvJAl','release_date','.search-window','result','title','addClass','13008YWCVqV','GET','29272507WZVZoy','overflow','#page'];_0x101c=function(){return _0x523fc8;};return _0x101c();}
+
+$(document).ready(function() {
+    let page = 1;
+
+    $(".side-bar ul li, header ul li").click(function(event){
+        event.stopImmediatePropagation();
+        location.reload();
+    })
+
+    if ($(window).width() > 600) {
+        $(".search").click(function(event){
+            event.stopImmediatePropagation();
+            $("html, body").css("overflow", "hidden");
+            document.body.insertAdjacentHTML("afterbegin", `
+            <div class="search-window">
+                <div>
+                    <input type="text" autocomplete="off" id="search" placeholder="Search a movie"/>
+                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="var(--orange)" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                </svg>
+                </div>
+            </div>`);
+            $(".search-window").click(function(event){
+                $("html, body").css("overflow", "auto");
+                $(this).remove();
+            })
+    
+            $(".search-window > div").click(function(event){
+                event.stopImmediatePropagation();
+            })
+
+            let searchEl = document.getElementById("search");
+
+            searchEl.addEventListener("keydown", function(event) {
+                if (event.key === "Enter") {
+                    search(this.value);
+                }
+            });
+
+            $(".search-window svg").click(function(event){
+                event.stopImmediatePropagation();
+                search(searchEl.value);
+            })
+
+            function search(movie) {
+                const options = {
+                    method: 'GET',
+                    headers: {
+                        accept: 'application/json',
+                        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMjgzMzQyMC41NDUxODcsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Y6XhJVKCh3d3Uti3TcxV3qzwW5NZhJonFbK7z3as5jM'
+                    }
+                };
+
+                fetch(`https://api.themoviedb.org/3/search/movie?query=${encodeURIComponent(movie)}&include_adult=false&language=en-US`, options)
+                .then(response => response.json())
+                .then(response => {
+                    response = response.results;
+
+                    document.getElementById("main").innerHTML = "";
+                    $(".page-navigation").hide();
+
+                    let x = 0;
+                    for (let j = 0; j < response.length; j++) {
+                        if (response[j].release_date != '') {
+                            let releaseDate = new Date(response[j].release_date);
+                            let year = releaseDate.getFullYear();
+                            year = year.toString();
+                            
+                            if (response[j].poster_path != null) {
+                                url = `https://image.tmdb.org/t/p/w400${response[j].poster_path}`;
+            
+                                document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                                <div>
+                                    <div class="movie" data-id='${response[j].id}'>
+                                        <img src="${url}" alt="${response[j].title}"/>
+                                        <p class="text-center"><span>(${year})</span><br>${response[j].title} </p>
+                                    </div>
+                                </div>`);
+
+                                x += 1;
+                            }
+                        }
+                    }
+
+                    $(".movie").on("click", function(event){
+                        event.stopImmediatePropagation();
+                        let data = $(this).data("id");
+    
+                        $("html, body").css("overflow", "hidden");
+                        
+                        document.body.insertAdjacentHTML("afterbegin", `
+                        <div class="watch-window">
+                            <div>
+                                <div class="close-button">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                    </svg>
+                                </div>
+                                <iframe src="https://vidsrc.me/embed/movie?tmdb=${data}" allowfullscreen></iframe>
+                            </div>
+                        </div>`);
+    
+                        $(".close-button").click(function(event){
+                            event.stopImmediatePropagation();
+                            $("html, body").css("overflow", "auto");
+                            $(".watch-window").remove();
+                        })
+                    })
+
+                    if (x == 0) {
+                        document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                        <div>Not found</div>`);
+                    }
+
+                    $(".search-window").remove();
+                    $("html, body").css("overflow", "auto");
+                })
+            }
+        })
+
+    } else {
+
+        function swapElements(el1, el2) {
+            // Get the parent node of the elements
+            const parent1 = el1.parentNode;
+            const parent2 = el2.parentNode;
+        
+            // Get the next sibling of the elements
+            const sibling1 = el1.nextSibling === el2 ? el1 : el1.nextSibling;
+            const sibling2 = el2.nextSibling === el1 ? el2 : el2.nextSibling;
+        
+            // Move el1 to the position of el2
+            parent2.insertBefore(el1, sibling2);
+        
+            // Move el2 to the position of el1
+            parent1.insertBefore(el2, sibling1);
+        }
+        
+        // Usage
+        const element1 = document.getElementById('copyright');
+        const element2 = document.getElementById('tmdb');
+        swapElements(element1, element2);
+
+        let hidden = true;
+        $(".bars").click(function(event){
+            event.stopImmediatePropagation();
+            if (hidden) {
+                $(".side-bar").animate({
+                    "left" : "0",
+                }, 500);
+                hidden = false;
+            } else {
+                $(".side-bar").animate({
+                    "left" : "-81vw",
+                }, 500);
+                hidden = true;
+            }
+        })
+    }
+
+    fetchMovies(page);
+    
+    function fetchMovies(n) {
+
+        fetch(`https://vidsrc.xyz/movies/latest/page-${n}.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            data = data.result;
+            document.getElementById("main").innerHTML = "";
+    
+            for (let i = 0; i < data.length; i++) {
+                let origTitle = data[i].title;
+                let title = origTitle.replace(/\s\d{4}$/, '');
+        
+                let yearMatch = origTitle.match(/\b(\d{4})\b$/);
+        
+                const options = {
+                    method: 'GET',
+                    headers: {
+                        accept: 'application/json',
+                        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMjgzMzQyMC41NDUxODcsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Y6XhJVKCh3d3Uti3TcxV3qzwW5NZhJonFbK7z3as5jM'
+                    }
+                };
+
+                if (yearMatch[1] > 2000) {
+                    //search movie thumbnail..
+                    fetch(`https://api.themoviedb.org/3/search/movie?query=${encodeURIComponent(title)}&include_adult=false&language=en-US`, options)
+                    .then(response => response.json())
+                    .then(response => {
+                        response = response.results;
+                        let found = false;
+                    
+                        for (let j = 0; j < response.length; j++) {
+                            let releaseDate = new Date(response[j].release_date);
+                            let year = releaseDate.getFullYear();
+                            year = year.toString();
+                            
+                            if (response[j].title.includes(title) && year == yearMatch[1]) {
+                                found = true;
+                                
+
+                                if (response[j].poster_path != null) {
+                                    url = `https://image.tmdb.org/t/p/w400${response[j].poster_path}`;
+                                    let res = data[i].tmdb_id;
+
+                                    document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                                    <div>
+                                        <div class="movie" data-id='${res}'>
+                                            <img src="${url}" alt="${origTitle}"/>
+                                            <p class="text-center"><span>(${year})</span><br>${title} </p>
+                                        </div>
+                                    </div>`);
+                                }
+
+                                break;
+                            }
+                        
+                        }
+        
+                        $(".movie").on("click", function(event){
+                            event.stopImmediatePropagation();
+                            let data = $(this).data("id");
+        
+                            $("html, body").css("overflow", "hidden");
+                            
+                            document.body.insertAdjacentHTML("afterbegin", `
+                            <div class="watch-window">
+                                <div>
+                                    <div class="close-button">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                        <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                        </svg>
+                                    </div>
+                                    <iframe src="https://vidsrc.me/embed/movie?tmdb=${data}" allowfullscreen></iframe>
+                                </div>
+                            </div>`);
+        
+                            $(".close-button").click(function(event){
+                                event.stopImmediatePropagation();
+                                $("html, body").css("overflow", "auto");
+                                $(".watch-window").remove();
+                            })
+                        })
+        
+                        setTimeout(() => {
+                            $(".preload-logo").animate({
+                                "opacity" : "0"
+                            }, "fast")
+                            $(".preload").addClass("preload2");
+                        }, 1000)
+                        
+                        setTimeout(function () {
+                            $(".preload-logo").remove();
+                            $(".preload").remove();
+                        }, 2000);
+
+                        $("#page").html(n);
+        
+                        if (!found) {
+                            //console.log(origTitle);
+                        }
+                    })
+                }
+            }
+
+        })
+    }
+
+    $("#next").click(function(event){
+        event.stopImmediatePropagation();
+        page += 1;
+        fetchMovies(page);
+    })
+
+    $("#prev").click(function(event){
+        event.stopImmediatePropagation();
+
+        if (page > 1) {
+            page -= 1;
+            fetchMovies(page);
+        }
+        
+    })
+})
+
