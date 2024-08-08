@@ -322,6 +322,7 @@ footer .footer-img img {
     .main {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        padding: 0 3px;
     }
     .main > div {
         transform: scale(.9);
@@ -331,7 +332,6 @@ footer .footer-img img {
         background: var(--black);
         color: var(--orange);
     }
-
     .main > div > div img{
         max-height: 250px;
         object-fit: fill;
