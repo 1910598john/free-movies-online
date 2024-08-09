@@ -7,6 +7,7 @@
     text-decoration: none;
     list-style: none;
 }
+
 input::placeholder {
     color: var(--orange); /* Default placeholder color */
 }
@@ -102,6 +103,7 @@ header ul li:hover{
 
 header .logo-container img{
     height: 100px;
+    cursor: pointer;
 }
 
 header ul li a{
@@ -170,6 +172,14 @@ header ul li a{
     border: 1px solid rgba(255,255,255,0.1);
     padding: 5px;
     color: var(--orange);
+}
+.fetching-data {
+    position: absolute;
+    top: 0;
+    left: 50%;transform: translateX(-50%);
+}
+.main{
+    position: relative;
 }
 .main > div {
     padding: 20px;
